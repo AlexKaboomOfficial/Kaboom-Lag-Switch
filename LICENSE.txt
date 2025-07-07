@@ -1,0 +1,31 @@
+Kaboom Lag Switch - End-User License Agreement (EULA)
+Copyright (c) 2025 @Alexkaboom
+
+This is a legal agreement between you (the user) and @Alexkaboom (the author) for the use of the software "Kaboom Lag Switch" (the "Software").
+
+By downloading, installing, or using the Software, you agree to be bound by the terms of this license.
+
+1. Grant of License
+The author grants you a non-exclusive, non-transferable license to use the Software for personal and commercial purposes, under the following conditions:
+
+2. You Are Permitted To:
+Use the Software for its intended purpose.
+
+Use the Software in the creation of commercial works, such as in a YouTube video, a live stream, or for professional work.
+
+View the Software’s source code for educational purposes or to understand its functionality.
+
+3. You Are NOT Permitted To:
+Modify, decompile, reverse engineer, or create derivative works from the Software.
+
+Redistribute, sell, rent, sublicense, or share copies of the Software in any form. If you wish to share the Software, you must direct others to the author’s official distribution page (e.g., your GitHub repository).
+
+Claim the Software as your own creation.
+
+4. Ownership
+All rights not expressly granted in this license are reserved by the author.
+
+5. Warranty Disclaimer
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
